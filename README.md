@@ -25,7 +25,7 @@ Useful when using the secret_string_wo option in AWS Secrets Manager, e.g.:
 terraform {
   required_providers {
     digesttracker = {
-      source  = "local/digesttracker"
+      source  = "dylannz/digesttracker"
       version = "0.2.0"
     }
   }
