@@ -26,7 +26,7 @@ terraform {
   required_providers {
     digesttracker = {
       source  = "dylannz/digesttracker"
-      version = "0.2.0"
+      version = "0.3.0"
     }
   }
 }
